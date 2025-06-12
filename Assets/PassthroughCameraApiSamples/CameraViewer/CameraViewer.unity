@@ -636,6 +636,10 @@ PrefabInstance:
       propertyPath: m_webCamTextureManager
       value: 
       objectReference: {fileID: 1608124433}
+    - target: {fileID: 4300654821384096248, guid: 0e9e59a9b5566489fad35afecaeac3a9, type: 3}
+      propertyPath: m_PresetInfoIsWorld
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5325651034816108330, guid: 0e9e59a9b5566489fad35afecaeac3a9, type: 3}
       propertyPath: m_Name
       value: CameraViewerManagerPrefab
